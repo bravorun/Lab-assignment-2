@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.Random;
 
 
-public class RandomSum {
+public class RandomNumberSum {
 	public static void main(String[] args) {
 		RandomNumber randomNummber =new RandomNumber();
 		Thread thread1=new Thread(randomNummber,"thread1");
